@@ -1,4 +1,5 @@
 nginx
 mysql:5.7
+halohub/halo-pro
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
