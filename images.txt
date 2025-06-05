@@ -4,4 +4,4 @@ keynetworks/ztncui
 
 mysql:5.7
 openresty/openresty
-drakkan/sftpgo
+drakkan/sftpgo:2.6
