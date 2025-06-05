@@ -3,5 +3,5 @@ keynetworks/ztncui
 --platform=linux/arm64 xiaoyaliu/alist
 
 mysql:5.7
-openresty/openresty:1.27
+openresty/openresty
 drakkan/sftpgo:v2.6
