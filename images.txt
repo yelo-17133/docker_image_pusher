@@ -3,8 +3,12 @@ keynetworks/ztncui
 --platform=linux/arm64 xiaoyaliu/alist
 
 mysql:5.7
-cym1102/nginxwebui:4.2.0
+phpmyadmin:5.2.1
+
 postgres:17.5
+
 openresty/openresty
+cym1102/nginxwebui:4.2.0
+
 drakkan/sftpgo:v2.6
 drakkan/sftpgo:v2.6-alpine
